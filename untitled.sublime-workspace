@@ -1,0 +1,1761 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"fou",
+				"focus"
+			],
+			[
+				"re",
+				"required"
+			],
+			[
+				"dis",
+				"disabled"
+			],
+			[
+				"els",
+				"elseif	elseif …"
+			],
+			[
+				"html",
+				"htmlentities"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"expen",
+				"expenseReport"
+			],
+			[
+				"getF",
+				"getFields"
+			],
+			[
+				"remo",
+				"removeClass"
+			],
+			[
+				"retu",
+				"return"
+			],
+			[
+				"paymentid",
+				"paymentyId"
+			],
+			[
+				"in",
+				"input	Tag"
+			],
+			[
+				"payme",
+				"paymentType"
+			],
+			[
+				"sub",
+				"subtotalAmount"
+			],
+			[
+				"htm",
+				"htmlspecialchars"
+			],
+			[
+				"tem",
+				"temp2"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"array_m",
+				"array_merge"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"desk",
+				"deskOfficer"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"rev",
+				"revenueDetail"
+			],
+			[
+				"De",
+				"Detail"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"pro",
+				"processing"
+			],
+			[
+				"ob_en",
+				"ob_end_flush"
+			],
+			[
+				"fun",
+				"function"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "<span style=\"font-weight: 400;\">Just after 9/11, my wife and I with our kids moved to Asia following our dreams of setting up an </span><a href=\"http://www.ithands.com\"><span style=\"font-weight: 400;\">open source software company in India</span></a><span style=\"font-weight: 400;\">.  Every minute here in India continues to be a fascinating adventure of rich culture, spicy food and a strange sort of ordered chaos (you will have to come here to understand this oxymoron).  I’ve spent nearly a decade and a half working elbow to elbow with Indians and have enjoyed the connectedness from being on a team working to make a difference in the world.</span>\n\n<span style=\"font-weight: 400;\">The following are 5 reasons why I love working with Indian PHP programmers</span>\n\n<b>#1.  Smart and savvy</b>\n\n<span style=\"font-weight: 400;\">Indians take their schooling very seriously and are well educated (at least the ones we hire). I believe the key to their intelligence is that they are willing to learn. Indians tend to be savy and capable of being quite good at getting things done even when resources are extremely limited.  One book that does a good job highlighting this is </span><a href=\"http://www.amazon.com/Jugaad-Innovation-Flexible-Generate-Breakthrough/dp/1118249747\"><span style=\"font-weight: 400;\">Jugaad Innovation: Think Frugal, Be Flexible, Generate Breakthrough Growth</span></a><span style=\"font-weight: 400;\">. </span>\n\n<b>#2.  Flexible to changing scope</b>\n\n<span style=\"font-weight: 400;\">Adaptability is key to Scrum and our team does quite well when an American Product Owner changes their mind mid-stream.  Indians do remarkable well in taking the news that their previous version of software which they worked 80 hours a week for the past month has been abandoned because the client changed their mind and now they have to start over. I remember a few years back we had a big shot client (a New York bestseller author) pay us to build them a web app for them 4 different times. Each time we delivered a version, they said this is exactly what we requested but we’ve changed our mind and now want something different.  Their budget was large so money was never the issue for them.  Our team took it all in stride and spirits were high throughout the project despite knowing if their work would ever be properly used. Our Indian programmers take scope changes in stride and adjust their schedule in order to meet demanding timelines.</span>\n\n<b>#3. Hard working ethic</b>\n\n<span style=\"font-weight: 400;\">As a child most Indians learn to rise early.  They are quite disciplined and hardworking viewing themselves as a part of a broader community having a sense of duty to fulfil certain societal obligations.  When given clear tasks, Indian developers are deeply committed and will complete their portion of the project, even if that means they will have to work late into the night or over the weekend.</span>\n\n<b>#4. Committed to the team</b>\n\n<span style=\"font-weight: 400;\">Indians make excellent employees as they see themselves as part of a team.  They work hard to promote harmony on the team and often remain calm and professional even when projects move through very stressful stages.  When a team member is struggling with some code or fixing some bug, the other programmers on the team will go out of their way to support them and assist them toward progress.</span>\n\n<b>#5. Loyal and dependable</b>\n\n<span style=\"font-weight: 400;\">From my experience, when I show genuine trust in my Indian teammates and support them, they will feel a strong sense of loyalty and are deeply committed to our relationship. They are very dependable to get the job done even when the timeline is too short, the internet is too slow, or the expectations of the client are borderline unreasonable.  Our Indian CodeIgniter programmers take up challenges and faithfully deliver consistently.  I applaud them for their character and persistence.</span>\n\n<b>Have a CodeIgniter Project with tight timelines?</b><span style=\"font-weight: 400;\"> <a href=\"/?page_id=45\">Contact us</a> and we will pull our Indian and American team together to get your project back on track. </span>\n\n<a href=\"http://www.ithands.com/\"><span style=\"font-weight: 400;\">About us:</span></a>\n\n<span style=\"font-weight: 400;\">CodeIgniter Hands is a division of </span><a href=\"http://www.ithands.com\"><span style=\"font-weight: 400;\">IT Hands</span></a><span style=\"font-weight: 400;\"> which operates two offices in India full of Indians and Americans.  We work with web software companies and ad agencies in a collaborative multi-cultural environment that celebrates ethnic diversity.</span>",
+			"settings":
+			{
+				"buffer_size": 4674,
+				"line_ending": "Unix",
+				"name": "<span style=\"font-weight: 400;\">Just after 9/11, m"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/edit.php",
+			"settings":
+			{
+				"buffer_size": 15807,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/jquery-ui-1.8.23.custom.css",
+			"settings":
+			{
+				"buffer_size": 19637,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/sk.css",
+			"settings":
+			{
+				"buffer_size": 32772,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/template.css",
+			"settings":
+			{
+				"buffer_size": 38542,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.php",
+			"settings":
+			{
+				"buffer_size": 8963,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptchalib.php",
+			"settings":
+			{
+				"buffer_size": 4224,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/administrator/Desktop/wcicfm-capthcha.html",
+			"settings":
+			{
+				"buffer_size": 1442,
+				"line_ending": "Unix",
+				"name": "Site key:6LdIGAATAAAAAK9x34fIGwGTnp2CFElRAF6xBM7e"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 467.0
+	},
+	"console":
+	{
+		"height": 230.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/administrator/Projects/codeigniterhands/index.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/404.php",
+		"/etc/environment",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/common.js",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/22_10_15/edit.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/header.php",
+		"/home/administrator/Projects/codeigniterhands/robots.txt",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/22_10_15/default.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/22_10_15/default_event.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/22_10_15/default_category.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/event/edit.php",
+		"/home/administrator/Projects/WBGL-NLR/test/captcha/recaptcha/recaptcha.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/framework-customizations/theme/manifest.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/unyson/framework/views/backend-settings-form.php",
+		"/home/administrator/Projects/WBGL-NLR/test/template.css",
+		"/home/administrator/Projects/WBGL-NLR/test/default.css",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/style.css",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-child/style.css",
+		"/home/administrator/Projects/WBGL-NLR/test/common.css",
+		"/home/administrator/Projects/WBGL-NLR/test/nowplaying/template.css",
+		"/home/administrator/Projects/WBGL-NLR/test/index.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/contact-form-7/includes/formatting.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/contact-form-7/includes/contact-form.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/framework-customizations/extensions/portfolio/views/content-single.php",
+		"/home/administrator/Projects/WBGL-NLR-live/com_jcalpro/views/event/tmpl/edit.php",
+		"/home/administrator/Projects/WBGL-NLR/administrator/com_jcalpro/views/event/tmpl/edit.php",
+		"/home/administrator/Projects/WBGL-NLR/test/edit.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/content-single.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/contact-form-7/modules/really-simple-captcha.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/contact-form-7/includes/functions.php",
+		"/home/administrator/Projects/codeigniterhands/.gitignore",
+		"/home/administrator/Projects/codeigniterhands/.htaccess",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/sentmail/deliverreport-show.php",
+		"/home/administrator/Projects/bigtwofive/wp-content/plugins/order-tracking-system/sql/ot-createdb.sql",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/roles/roles.js",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/subscribers/view-group.js",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-add.php",
+		"/home/administrator/Projects/neareasttours/webriti-smtp-mail.php",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-edit.php",
+		"/home/administrator/Projects/FindSigns/wp/wp-admin/js/nav-menu.js",
+		"/home/administrator/Projects/FindSigns/downloader/template/connect/iframe.phtml",
+		"/home/administrator/Downloads/devcodeigniterhandsDB.sql",
+		"/home/administrator/Projects/FindSigns/skin/frontend/default/findsigns/css/style.css",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/get-app/views/view.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/framework-customizations/extensions/shortcodes/shortcodes/header-static/views/view.php",
+		"/home/administrator/Projects/neareasttours/easy-wp-smtp.php",
+		"/home/administrator/Projects/codeigniterhands/wp-config.php",
+		"/home/administrator/Projects/codeigniterhands/wp-content/plugins/unyson/framework/extensions/backup/includes/processes/class-fw-backup-process-auto-install.php",
+		"/home/administrator/Desktop/wp-config.php",
+		"/home/administrator/Desktop/codeigniter/robots.txt",
+		"/home/administrator/Projects/FindSigns/js/html5/svg-editor.js",
+		"/home/administrator/Projects/FindSigns/ipaduploadtool/Libraries/jquery/jquery-1.4.3.min.js",
+		"/home/administrator/Projects/FindSigns/js/themeheros/filterslayer/jquery-ui.js",
+		"/home/administrator/Projects/FindSigns/js/tiny_mce/plugins/autosave/editor_plugin_src.js",
+		"/home/administrator/Projects/FindSigns/app/code/community/Amasty/Meta/Block/Adminhtml/Config/Grid.php",
+		"/home/administrator/Projects/FindSigns/app/code/community/Amasty/Meta/Block/Adminhtml/Custom/Grid.php",
+		"/home/administrator/Projects/FindSigns/skin/frontend/default/findsigns/css/styles.css",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/query/db_subscriber.php",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-export.php",
+		"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-show.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-add.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-stater.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-register.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/query/db_subscriber.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-edit.php",
+		"/home/administrator/Projects/TwoFiveApparel/.gitignore",
+		"/home/administrator/Projects/TwoFiveApparel/wp-config.php",
+		"/home/administrator/Projects/FindSigns/app/design/frontend/default/findsigns/template/web2print/web2print.phtml",
+		"/home/administrator/Projects/findtennislessons/.gitignore",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-common.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-show.php",
+		"/etc/apache2/sites-available/bigtwofivedev.conf",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/base/ot-defined.php",
+		"/home/administrator/Projects/FindSigns/js/html5/flickr/jquery.flickr.js",
+		"/home/administrator/Projects/FindSigns/app/design/frontend/default/default/template/design/design - Copy.phtml",
+		"/home/administrator/Projects/FindSigns/app/design/adminhtml/default/default/template/designidea/tool.phtml__",
+		"/home/administrator/Projects/FindSigns/app/design/adminhtml/default/default/template/designidea/tool.phtml",
+		"/home/administrator/Projects/FindSigns/app/design/adminhtml/default/default/template/producttemplatecreator/tool.phtml",
+		"/home/administrator/Projects/FindSigns/app/design/frontend/default/default/template/design/design.phtml",
+		"/home/administrator/Projects/FindSigns/app/design/frontend/default/default/template/web2print/web2print - 06032014.phtml",
+		"/home/administrator/Projects/FindSigns/app/design/frontend/default/default/template/web2print/web2print.phtml",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/order-tracking-system-ithands.php",
+		"/home/administrator/Projects/davidkcompany/wp-includes/general-template.php",
+		"/home/administrator/Projects/davidkcompany/wp-admin/export.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/sql/ot-createdb.sql",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-export.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/export/export-email-address.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-group.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/roles/roles.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/jquery-ui-1.11.4/jquery-ui.css",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-directly.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/themes/twentytwelve/header.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/themes/twentyfourteen/header.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/compose/compose-show.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/cron/cron.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/compose/compose.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-sendmail.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/subscribers/view-subscriber-import.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/classes/ot-loadwidget.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/settings/settings.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/sentmail/sentmail.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/sendmail/sendmail.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/sendmail/sendmail.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/base/ot-defined.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/order-tracking-system.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/readme12122.txt",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/order-tracking-system.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/notification1212/notification.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/license.txt",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/help-removeit/help.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/changelog.txt",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/subscribers/view-subscriber-show.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sendmail/sendmail.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/readme12122.txt",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/compose/compose-show.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-register.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/changelog.txt",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/query/db_subscriber.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sql/ot-createdb.sql",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sql/index.html",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-sendmail.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-stater.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-common.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-intermediate.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/query/db_default.php",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/widget/ot-widget-page.js",
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/widget/ot-widget.js"
+	],
+	"find":
+	{
+		"height": 44.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			"/home/administrator/Projects/WBGL-NLR,/home/administrator/Projects/WBGL-NLR-live",
+			"/home/administrator/Projects/WBGL-NLR",
+			"/home/administrator/Projects/WBGL-NLR-live",
+			"",
+			"/home/administrator/Projects/WBGL-NLR",
+			"/home/administrator/Projects/",
+			"/home/administrator/Projects/WBGL-NLR-live",
+			"/home/administrator/Projects/codeigniterhands/",
+			"/home/administrator/Projects/codeigniterhands/wp-content/plugins",
+			"<open files>",
+			"",
+			"/home/administrator/Projects/FindSigns",
+			"/home/administrator/Projects/TwoFiveApparel/wp-content/plugins/order-tracking-system-ithands",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/",
+			"",
+			"/home/administrator/Projects/FindSigns/",
+			"",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system",
+			"/home/administrator/Projects/davidkcompany",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/compose",
+			"/home/administrator/Projects/davidkcompany/",
+			"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/order-tracking-system",
+			"",
+			"/home/administrator/Projects/FindSigns/",
+			"/home/administrator/Projects/FindSigns/app",
+			"/home/administrator/Projects/FindSigns",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/order-tracking-system",
+			"/home/administrator/Projects/bigtwofive/",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/order-tracking-system",
+			"",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/email-subscribers",
+			"/home/administrator/Projects/demo/Transformationsfurniture/breadcrumb-navxt",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/email-subscribers",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins",
+			"/home/administrator/Projects/bigtwofive/wp-content/plugins/order-tracking-system",
+			"/home/administrator/Projects/bigtwofive/",
+			"/home/administrator/Projects/charityp",
+			"/home/administrator/Projects/findtennislessons",
+			"/home/administrator/Projects/charityp/allegroapp",
+			"<open files>",
+			"",
+			"/home/administrator/Projects/findtennislessons/",
+			"/home/administrator/Projects/findtennislessons/modules/",
+			"/home/administrator/Projects/findtennislessons/modules/mod_mymaplocations",
+			"/home/administrator/Projects/findtennislessons/modules",
+			"/home/administrator/Desktop/administrator",
+			"/home/administrator/Projects/WBGL-NLR/administrator",
+			"/home/administrator/Projects/WBGL-NLR/com_jcalpro",
+			"/home/administrator/Projects/WBGL-NLR/com_jcalpro,/home/administrator/Projects/WBGL-NLR/administrator",
+			"/home/administrator/Projects/WBGL-NLR/com_jcalpro",
+			"/home/administrator/Projects/tennislessions/",
+			"/home/administrator/Projects/tennislessions/administrator/components/com_mymaplocations",
+			"/home/administrator/Projects/tennislessions/administrator/components/com_mymaplocations/views",
+			"/home/administrator/Projects/tennislessions/administrator",
+			"/home/administrator/Projects/tennislessions/administrator/components/com_mymaplocations/views",
+			"/home/administrator/Projects/tennislessions/components/com_mymaplocations",
+			"/home/administrator/Projects/tennislessions/administrator/components/com_mymaplocations/views",
+			"/home/administrator/Projects/neareasttours/",
+			"/home/administrator/Projects/neareasttours/tourpackage-v2-00",
+			"/home/administrator/Projects/demo/FMS/FMWebFrame",
+			"/home/administrator/Projects/neareasttours/tourpackage-v2-00",
+			"/home/administrator/Projects/charityp",
+			"/home/administrator/Projects/neareasttours/tourpackage-v2-00",
+			"/home/administrator/Desktop/eduspireBlog",
+			"/var/www/vhosts/mrmdraft.ithands.net/administrator/components/com_rsform/",
+			"/var/www/vhosts/mrmdraft.ithands.net/components/com_rsform/",
+			"/var/www/vhosts/mrmdraft.ithands.net/component/com_rsform/",
+			"/var/www/vhosts/mrmdraft.ithands.net",
+			"/home/administrator/Desktop/eduspireBlog/pligin/simple-subscribe"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"*",
+			"jform_captcha",
+			"captch",
+			"captcha",
+			"ADD AN EVENT",
+			"captcha",
+			"**********************************************",
+			"jcalrepeatend1",
+			"jcl_row",
+			"jcl_form_element jcl_left",
+			"CAPTCHA",
+			"jcl_form_element jcl_left",
+			"jform_captcha",
+			"Select Location Clear",
+			"jcalrepeatend1",
+			"captcha",
+			"recurrence_close",
+			"jform_captcha",
+			"DarwinThemes",
+			"Retouch",
+			"manifest",
+			"fw-col-xs-12 fw-col-sm-6",
+			"author",
+			"fw-col-xs-12 fw-col-sm-6",
+			"DarwinThemes",
+			"by DarwinThemes",
+			"story-default-frontpage .teaser-item",
+			"Prayer Auto-Frontpage",
+			"post_categories",
+			"wpcf7-response-output wpcf7-display-none",
+			"captcha",
+			"icon-basic",
+			"download-a a",
+			".sql",
+			"http://dev.codeigniterhands.com",
+			"both",
+			"clear:both",
+			"min-height:",
+			" min-height:",
+			"nick",
+			"min-height:",
+			"nick",
+			"onbeforeunload",
+			"nav-",
+			"nav",
+			"onbeforeunload",
+			"localStorage",
+			"setItem",
+			"onbeforeunload",
+			"web2print-index-index",
+			"#featured_sign_type ul, #incredible ul",
+			"min-height:",
+			"#featured_sign_type ul, #incredible ul",
+			"min-height:",
+			"#templates-wrapper #incredible li h5",
+			"confirm",
+			"leaveContext",
+			"Leave",
+			"Stay",
+			"Are you sure",
+			"canvasName",
+			"window.onbeforeunload",
+			" window.onbeforeunload",
+			"confirmOnPageExit",
+			"styleoverrides",
+			"window.onbeforeunload",
+			" If we haven't been passed the event get the window.event",
+			"window.onbeforeunload",
+			"Are you sure you want to leave this page",
+			"web",
+			"web2",
+			"web2print",
+			"Stay",
+			"Leave Page",
+			"leave Page",
+			"leave",
+			"confirm that you",
+			"confirm",
+			"data you have entered may not be",
+			"This page is asking you to confirm that you want to leave",
+			"This page is asking you to confirm that you want to leave - data you have entered may not be",
+			"This page is asking you to confirm that you want to leave - data you have entered may not be saved.",
+			"#incredible li h5, #incredible li span",
+			" #incredible li h5, #incredible li span",
+			"#featured_sign_type ul, #incredible ul",
+			"#featured_sign_type ul, #incredible ul ",
+			"ul",
+			"#featured_sign_type ul",
+			"#featured_sign_type ul, #incredi",
+			"#featured_sign_type ul, #incredible u",
+			"#featured_sign_type ul, #incredible ul ",
+			"ot_view_order_ins",
+			"Sno",
+			"Please enter customer full name.",
+			"Edit Order",
+			"Please select group for this order.",
+			"Please select group for this customer",
+			"Please select customer email status",
+			"Please select or create your group for this email.",
+			"what",
+			"Email was successfully inserted",
+			"Please select assign user to this order.",
+			"on ot_view_order_ins",
+			"Attache PDF File",
+			"Assign User",
+			"flicker_import",
+			"\n\nupload your flickr photos",
+			"Please enter subscriber email address.",
+			"Enter full name",
+			"calendar",
+			"Click to export csv",
+			"order-tracking-system",
+			"2.9",
+			"order-tracking-system",
+			"1.0",
+			"2.9",
+			"1.0",
+			"2.9",
+			"ot-settings",
+			"There is a new version",
+			"There is a new version of Order Tracking available",
+			"2.9",
+			"ot-settings",
+			"ot_setting_update",
+			"1.0",
+			"2.9",
+			"1.0",
+			"ot_subscribers"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"http://codeigniterhands.draft",
+			"order-tracking-system-ithands",
+			"1.0",
+			"order-tracking-system-ithands",
+			"2.9",
+			"1.0",
+			"2.9",
+			"ot_orders",
+			"1.0",
+			"ot_order_default",
+			"ot_view_order_ins",
+			"ot_view_order_cron",
+			"ot_view_order_manual",
+			"ot_view_order_widget",
+			"ot_view_order_job",
+			"ot_view_order_upd_group",
+			"ot_view_order_upd_status",
+			"ot_view_order_one",
+			"ot_view_order_group",
+			"ot_view_order_bulk",
+			"ot_view_order_delete",
+			"ot_view_order_sendmail",
+			"ot_view_order_search",
+			"ot_view_orders_count",
+			"Order Tracking",
+			"roles",
+			"_roles_",
+			"1",
+			"ot-",
+			"ot_",
+			"ot",
+			"Shipped",
+			"Completed",
+			"Processed",
+			"order-tracking-system",
+			"Received",
+			"ots_sent_endtime",
+			"ots_sent_starttime",
+			"ots_emaillist",
+			"OTS_FILE",
+			"ots_c_message2",
+			"ots_c_message1",
+			"ots_c_subhtml",
+			"ots_c_unsubhtml",
+			"ots_c_unsubtext",
+			"ots_c_unsublink",
+			"ots_c_optinlink",
+			"ots_c_optincontent",
+			"ots_c_optinsubject",
+			"ots_c_optinoption",
+			"ots_c_usermailcontant",
+			"ots_c_usermailsubject",
+			"ots_c_usermailoption",
+			"ots_c_adminmailcontant",
+			"ots_c_adminmailsubject",
+			"ots_c_adminemail",
+			"ots_c_adminmailoption",
+			"ots_c_mailtype",
+			"ots_c_fromemail",
+			"ots_c_fromname",
+			"ots_c_id",
+			"ots_pluginconfig",
+			"ots_deliver_senttype",
+			"ots_deliver_sentstatus",
+			"ots_deliver_viewdate datetime",
+			"ots_deliver_status",
+			"ots_deliver_sentdate datetime",
+			"ots_deliver_emailmail",
+			"ots_deliver_emailid",
+			"ots_deliver_sentguid",
+			"ots_deliver_id",
+			"ots_deliverreport",
+			"ots_sent_subject",
+			"ots_sent_type",
+			"ots_sent_status",
+			"ots_sent_preview",
+			"ots_sent_count",
+			"ots_sent_starttime datetime",
+			"ots_sent_source",
+			"ots_sent_qstring",
+			"ots_sent_guid",
+			"ots_sent_id",
+			"ots_sentdetails",
+			"ots_note_status",
+			"ots_note_templ",
+			"ots_note_group",
+			"ots_note_cat",
+			"ots_note_id",
+			"ots_notification",
+			"ots_email_type",
+			"ots_templ_status",
+			"ots_templ_body",
+			"ots_templ_heading",
+			"ots_templ_id",
+			"ots_templatetable",
+			"ots_email_guid",
+			"ots_email_group",
+			"ots_email_viewcount",
+			"ots_email_created datetime",
+			"ots_email_status",
+			"ots_email_mail",
+			"ots_email_name",
+			"ots_email_id",
+			"ots_email",
+			"ots_emaillist",
+			"OTS_DIR",
+			"ots_activation",
+			"ots_cls_registerhook",
+			"OTS_TDOMAIN",
+			"ots_plugin_name",
+			"order-tracking-system",
+			"OTS_BASE_FILE",
+			"StoredBalLastMo"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 4674,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1475,
+								1475
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "<span style=\"font-weight: 400;\">Just after 9/11, m",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/edit.php",
+					"settings":
+					{
+						"buffer_size": 15807,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14407,
+								14407
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 8801.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/jquery-ui-1.8.23.custom.css",
+					"settings":
+					{
+						"buffer_size": 19637,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2947,
+								2947
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1426.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/sk.css",
+					"settings":
+					{
+						"buffer_size": 32772,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								13720,
+								13720
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 5373.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/template.css",
+					"settings":
+					{
+						"buffer_size": 38542,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								818,
+								818
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 436.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.php",
+					"settings":
+					{
+						"buffer_size": 8963,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4819,
+								4819
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false,
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3795.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptchalib.php",
+					"settings":
+					{
+						"buffer_size": 4224,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9,
+								9
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 552.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "/home/administrator/Desktop/wcicfm-capthcha.html",
+					"settings":
+					{
+						"buffer_size": 1442,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								142,
+								142
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "Site key:6LdIGAATAAAAAK9x34fIGwGTnp2CFElRAF6xBM7e",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"wp-content/plugins/.sql",
+				"bigtwofive/wp-content/plugins/order-tracking-system/sql/ot-createdb.sql"
+			],
+			[
+				"heade",
+				"allegroapp/views/include/header.php"
+			],
+			[
+				"footer",
+				"allegroapp/views/include/footer.php"
+			],
+			[
+				"inde",
+				"index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"mr",
+				"/home/administrator/Documents/mrmdraft.sublime-project"
+			],
+			[
+				"mrm",
+				"/home/administrator/Documents/mrmdraft.sublime-project"
+			],
+			[
+				"",
+				"/home/administrator/Projects/demo/codeIgniter/codeIgniterDemo"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 288.0,
+	"status_bar_visible": true
+}
