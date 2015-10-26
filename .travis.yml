@@ -1,0 +1,46 @@
+# Travis CI config file
+
+# Tell Travis CI we are using PHP
+language: php
+
+# Define the php versions against we want to test our code
+php:
+    - 5.6
+    - 5.5
+
+# We don't want to run linux commands as super user
+sudo: false
+
+# Composer package installation
+install:
+  # Get latest version of Composer always
+  - composer self-update
+  # Install Coveralls reporting package , will also trigger dump-autoload
+  - composer install --dev --no-interaction --prefer-source
+
+# Create a storage folder for Coverage report
+before_script:
+    - mkdir -p build/logs
+
+# Testing the app (see phpunit.xml), generating Code Coverage report
+script:
+  - phpunit 
+
+# Submit generated coverage report to Coveralls servers, see .coveralls.yml
+after_script:
+
+
+after_success:
+#
+after_failure:
+#
+
+# Tell Travis CI to monitor only 'master' branch
+branches:
+  only: master
+
+# Configure email notifications
+notifications:
+     on_success: never
+     on_failure: always
+
