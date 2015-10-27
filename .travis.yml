@@ -24,11 +24,11 @@ before_script:
 
 # Testing the app (see phpunit.xml), generating Code Coverage report
 script:
-  - phpunit 
+  - phpunit --coverage-clover build/logs/clover.xml 
 
 # Submit generated coverage report to Coveralls servers, see .coveralls.yml
 after_script:
-
+- php vendor/bin/coveralls -v
 
 after_success:
 #

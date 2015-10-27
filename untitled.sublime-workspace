@@ -149,60 +149,76 @@
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/edit.php",
+			"file": ".env",
 			"settings":
 			{
-				"buffer_size": 15807,
+				"buffer_size": 311,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/jquery-ui-1.8.23.custom.css",
+			"file": "database/migrations/2014_10_12_000000_create_users_table.php",
 			"settings":
 			{
-				"buffer_size": 19637,
+				"buffer_size": 703,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/sk.css",
+			"file": "resources/views/errors/404.blade.php",
 			"settings":
 			{
-				"buffer_size": 32772,
+				"buffer_size": 30,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/template.css",
+			"file": "public/index.php",
 			"settings":
 			{
-				"buffer_size": 38542,
+				"buffer_size": 1786,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.php",
+			"file": "public/.htaccess",
 			"settings":
 			{
-				"buffer_size": 8963,
+				"buffer_size": 412,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptchalib.php",
+			"file": "config/app.php",
 			"settings":
 			{
-				"buffer_size": 4224,
+				"buffer_size": 8201,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/administrator/Desktop/wcicfm-capthcha.html",
+			"file": ".gitignore",
 			"settings":
 			{
-				"buffer_size": 1442,
+				"buffer_size": 57,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".travis.yml",
+			"settings":
+			{
+				"buffer_size": 943,
 				"line_ending": "Unix",
-				"name": "Site key:6LdIGAATAAAAAK9x34fIGwGTnp2CFElRAF6xBM7e"
+				"name": "# Travis CI config file"
+			}
+		},
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 144,
+				"line_ending": "Unix"
 			}
 		}
 	],
@@ -250,6 +266,20 @@
 	},
 	"file_history":
 	[
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptchanew/recaptchanew.php",
+		"/home/administrator/Projects/laravel5/config/app.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/recaptchanew/recaptchanew.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptchalib.php",
+		"/home/administrator/Downloads/recaptcha.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.xml",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/recaptchanew/recaptchanew.xml",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/recaptchanew/index.html",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/edit.php",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/jquery-ui-1.8.23.custom.css",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/sk.css",
+		"/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/template.css",
+		"/home/administrator/Desktop/wcicfm-capthcha.html",
 		"/home/administrator/Projects/codeigniterhands/index.php",
 		"/home/administrator/Projects/codeigniterhands/wp-content/themes/retouch-parent/404.php",
 		"/etc/environment",
@@ -363,21 +393,7 @@
 		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/help-removeit/help.php",
 		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system-ithands/changelog.txt",
 		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/subscribers/view-subscriber-show.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sendmail/sendmail.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/readme12122.txt",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/compose/compose-show.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-register.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/changelog.txt",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/query/db_subscriber.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sql/ot-createdb.sql",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sql/index.html",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-sendmail.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-stater.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-common.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/classes/ot-intermediate.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/query/db_default.php",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/widget/ot-widget-page.js",
-		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/widget/ot-widget.js"
+		"/home/administrator/Projects/davidkcompany/wp-content/plugins/order-tracking-system/sendmail/sendmail.php"
 	],
 	"find":
 	{
@@ -385,7 +401,7 @@
 	},
 	"find_in_files":
 	{
-		"height": 0.0,
+		"height": 105.0,
 		"where_history":
 		[
 			"/home/administrator/Projects/WBGL-NLR,/home/administrator/Projects/WBGL-NLR-live",
@@ -469,6 +485,11 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"varify",
+			"recaptcha_area",
+			"https",
+			"RECAPTCHA_API_SECURE_SERVER",
+			"RECAPTCHA_API_SERVER",
 			"*",
 			"jform_captcha",
 			"captch",
@@ -591,12 +612,7 @@
 			"There is a new version",
 			"There is a new version of Order Tracking available",
 			"2.9",
-			"ot-settings",
-			"ot_setting_update",
-			"1.0",
-			"2.9",
-			"1.0",
-			"ot_subscribers"
+			"ot-settings"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -727,7 +743,7 @@
 	"groups":
 	[
 		{
-			"selected": 7,
+			"selected": 9,
 			"sheets":
 			[
 				{
@@ -848,18 +864,18 @@
 				},
 				{
 					"buffer": 1,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/edit.php",
+					"file": ".env",
 					"settings":
 					{
-						"buffer_size": 15807,
+						"buffer_size": 311,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								14407,
-								14407
+								214,
+								214
 							]
 						],
 						"settings":
@@ -954,30 +970,28 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 8801.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 2,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/jquery-ui-1.8.23.custom.css",
+					"file": "database/migrations/2014_10_12_000000_create_users_table.php",
 					"settings":
 					{
-						"buffer_size": 19637,
+						"buffer_size": 703,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2947,
-								2947
+								10,
+								10
 							]
 						],
 						"settings":
@@ -1072,29 +1086,30 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"word_wrap": true
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 1426.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 3,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/sk.css",
+					"file": "resources/views/errors/404.blade.php",
 					"settings":
 					{
-						"buffer_size": 32772,
+						"buffer_size": 30,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								13720,
-								13720
+								26,
+								26
 							]
 						],
 						"settings":
@@ -1189,30 +1204,28 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 5373.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 4,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/template.css",
+					"file": "public/index.php",
 					"settings":
 					{
-						"buffer_size": 38542,
+						"buffer_size": 1786,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								818,
-								818
+								14,
+								14
 							]
 						],
 						"settings":
@@ -1307,30 +1320,28 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/CSS/CSS.tmLanguage",
-							"tab_size": 2,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/PHP/PHP.tmLanguage"
 						},
 						"translation.x": 0.0,
-						"translation.y": 436.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 5,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptcha.php",
+					"file": "public/.htaccess",
 					"settings":
 					{
-						"buffer_size": 8963,
+						"buffer_size": 412,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4819,
-								4819
+								0,
+								0
 							]
 						],
 						"settings":
@@ -1425,30 +1436,30 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false,
-							"word_wrap": true
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 3795.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 6,
-					"file": "/home/administrator/Projects/WBGL-NLR/test/live/dev/wcic_23_10_15/captcha/recaptcha/recaptchalib.php",
+					"file": "config/app.php",
 					"settings":
 					{
-						"buffer_size": 4224,
+						"buffer_size": 8201,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								9,
-								9
+								479,
+								479
 							]
 						],
 						"settings":
@@ -1544,28 +1555,29 @@
 							},
 							"sublimelinter_wrap_find": true,
 							"syntax": "Packages/PHP/PHP.tmLanguage",
-							"translate_tabs_to_spaces": false
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 552.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
 				},
 				{
 					"buffer": 7,
-					"file": "/home/administrator/Desktop/wcicfm-capthcha.html",
+					"file": ".gitignore",
 					"settings":
 					{
-						"buffer_size": 1442,
+						"buffer_size": 57,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								142,
-								142
+								57,
+								57
 							]
 						],
 						"settings":
@@ -1576,7 +1588,6 @@
 								"README",
 								"FIXME"
 							],
-							"auto_name": "Site key:6LdIGAATAAAAAK9x34fIGwGTnp2CFElRAF6xBM7e",
 							"csslint_options":
 							{
 								"adjoining-classes": "warning",
@@ -1661,7 +1672,242 @@
 								"Ruby on Rails": "ruby"
 							},
 							"sublimelinter_wrap_find": true,
-							"syntax": "Packages/HTML/HTML.tmLanguage"
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": ".travis.yml",
+					"settings":
+					{
+						"buffer_size": 943,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								736,
+								736
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"auto_name": "# Travis CI config file",
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/YAML/YAML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "README.md",
+					"settings":
+					{
+						"buffer_size": 144,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								144,
+								144
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110
+							],
+							"gjslint_options":
+							[
+							],
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"devel": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": "load-save",
+							"sublimelinter_delay": 2,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -1756,6 +2002,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 288.0,
+	"side_bar_width": 483.0,
 	"status_bar_visible": true
 }
